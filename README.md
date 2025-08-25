@@ -1,4 +1,4 @@
-<h4 align="center">//👨‍💻 Hey, seja bem-vindo!  <br><br>Sou Back-End Developer focado em Golang, mas também exploro linguagens como C, Java e JavaScript.  <br>Curto usar Python para análise de dados e não deixo de lado a base de HTML5 e CSS quando necessário.  <br><br>🚀 Aqui você vai encontrar projetos, estudos e experimentos que refletem minha evolução como dev.</h4>
+[<h4 align="center">//👨‍💻 Hey, seja bem-vindo!  <br><br>Sou Back-End Developer focado em Golang, mas também exploro linguagens como C, Java e JavaScript.  <br>Curto usar Python para análise de dados e não deixo de lado a base de HTML5 e CSS quando necessário.  <br><br>🚀 Aqui você vai encontrar projetos, estudos e experimentos que refletem minha evolução como dev.</h4>
 
 ###
 
@@ -52,3 +52,4 @@
 </div>
 
 ###
+](https://tenor.com/pt-BR/view/computer-cat-working-type-typing-gif-7817705)
