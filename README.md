@@ -1,16 +1,14 @@
-[<h4 align="center">//👨‍💻 Hey, seja bem-vindo!  <br><br>Sou Back-End Developer focado em Golang, mas também exploro linguagens como C, Java e JavaScript.  <br>Curto usar Python para análise de dados e não deixo de lado a base de HTML5 e CSS quando necessário.  <br><br>🚀 Aqui você vai encontrar projetos, estudos e experimentos que refletem minha evolução como dev.</h4>
+<h4 align="center">//👨‍💻 Hey, seja bem-vindo!  <br><br>Sou Back-End Developer focado em Golang, mas também exploro linguagens como C, Java e JavaScript.  <br>Curto usar Python para análise de dados e não deixo de lado a base de HTML5 e CSS quando necessário.  <br><br>🚀 Aqui você vai encontrar projetos, estudos e experimentos que refletem minha evolução como dev.</h4>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murilo-The-Dev/Murilo-The-Dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murilo-The-Dev/Murilo-The-Dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Murilo-The-Dev/Murilo-The-Dev/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://tenor.com/pt-BR/view/computer-cat-working-type-typing-gif-7817705"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilo-The-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-The-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murilo-The-Dev&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -52,4 +50,3 @@
 </div>
 
 ###
-](https://tenor.com/pt-BR/view/computer-cat-working-type-typing-gif-7817705)
