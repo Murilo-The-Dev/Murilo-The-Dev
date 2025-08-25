@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/1200x/99/2e/ce/992eceb9ddfca10b99df4e332e8c7741.jpg"  />
+  <img height="450" src="https://i.pinimg.com/1200x/99/2e/ce/992eceb9ddfca10b99df4e332e8c7741.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilo-The-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-The-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murilo-The-Dev&radius=16&theme=nightowl&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
@@ -63,11 +63,11 @@
 ###
 
 <div align="center">
-  <img height="298" src="https://i.pinimg.com/736x/c0/2e/11/c02e11fff73159047536b26422766740.jpg"  />
+  <img height="330" src="https://i.pinimg.com/736x/c0/2e/11/c02e11fff73159047536b26422766740.jpg"  />
 </div>
 
 ###
 
-<h2 align="center">Are u a 1 or a 0?</h2>
+<h1 align="center">Are u a 1 or a 0?</h1>
 
 ###
