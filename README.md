@@ -30,6 +30,8 @@
 ###
 
 <p align="left">I'm available for:<br><br>Backend development & API design;<br>Go consulting and code reviews;<br>System architecture and optimization;<br>Performance tuning and scalability.<br><br>Let's build something together.</p>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="murilo-christofoletti-7a221436b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/murilo-christofoletti-7a221436b?trk=profile-badge">Murilo Christofoletti</a></div>
+              
 
 ###
 
