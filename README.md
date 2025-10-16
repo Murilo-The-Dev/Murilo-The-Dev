@@ -25,6 +25,14 @@
 
 ###
 
+<h1 align="left">//Open for Freelance</h1>
+
+###
+
+<p align="left">I'm available for:<br><br>Backend development & API design;<br>Go consulting and code reviews;<br>System architecture and optimization;<br>Performance tuning and scalability.<br><br>Let's build something together.</p>
+
+###
+
 <h1 align="left">//Techs</h1>
 
 ###
