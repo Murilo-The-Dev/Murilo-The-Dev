@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am a Back-End Developer focused on building efficient and resilient systems.  <br>My main stack is Golang, with additional experience in C, Java, and JavaScript.  <br>I also use Python for data analysis, and have a solid foundation in HTML5 and CSS.  <br><br>This space is where I shape ideas into code — sharp, minimal, and to the point.  <br><br>In computing, every abstraction hides a deeper complexity.  <br>Behind every system lies logic, precision, and the quiet pursuit of order within chaos.  <br>Code is not only instructions for machines, but also a mirror of how we structure thought.</h4>
+<h4 align="left">I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.  <br><br>This space is where I shape ideas into code — sharp, minimal, and to the point.  <br><br>In computing, every abstraction hides a deeper complexity.  <br>Behind every system lies logic, precision, and the quiet pursuit of order within chaos.  <br>Code is not only instructions for machines, but also a mirror of how we structure thought.</h4>
 
 ###
 
