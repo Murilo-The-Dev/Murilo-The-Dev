@@ -2,7 +2,18 @@
 
 ###
 
-<h4 align="left">I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.  <br><br>This space is where I shape ideas into code — sharp, minimal, and to the point.  <br><br>In computing, every abstraction hides a deeper complexity.  <br>Behind every system lies logic, precision, and the quiet pursuit of order within chaos.  <br>Code is not only instructions for machines, but also a mirror of how we structure thought.</h4>
+<h4 align="left">
+I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang, with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM. I work with automated testing (unit and integration tests) to ensure reliability and safe code evolution, and I have hands-on experience with CI/CD pipelines for continuous build, testing, and deployment. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.
+<br><br>
+This space is where I shape ideas into code — sharp, minimal, and to the point.
+<br><br>
+In computing, every abstraction hides a deeper complexity.
+<br>
+Behind every system lies logic, precision, and the quiet pursuit of order within chaos.
+<br>
+Code is not only instructions for machines, but also a mirror of how we structure thought.
+</h4>
+
 
 ###
 
@@ -18,10 +29,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-The-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-The-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Murilo-The-Dev&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murilo-The-Dev&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-The-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-The-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=Murilo-The-Dev&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murilo-The-Dev&radius=16&theme=high-contrast&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"/>
 </div>
 
 ###
