@@ -3,16 +3,14 @@
 ###
 
 <h4 align="left">
-I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang and Ruby on Rails, with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM and Active Record. I work with automated testing (unit and integration tests) to ensure reliability and safe code evolution, and I have hands-on experience with CI/CD pipelines for continuous build, testing, and deployment. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.
+I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang and Ruby on Rails, with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM and Active Record. I work with automated testing (unit and integration tests) to ensure reliability and safe code evolution, and I have hands-on experience with CI/CD pipelines for continuous build, testing, and deployment. I also work with C, Java, and TypeScript. Experienced with cloud deployments on Railway and integration with services like Cloudinary.
 <br><br>
 On the infrastructure side, I run Arch Linux with a custom Hyprland setup — precision in the environment reflects precision in the code.
 <br><br>
 This space is where I shape ideas into code — sharp, minimal, and to the point.
 <br><br>
-In computing, every abstraction hides a deeper complexity.
-<br>
-Behind every system lies logic, precision, and the quiet pursuit of order within chaos.
-<br>
+In computing, every abstraction hides a deeper complexity.<br>
+Behind every system lies logic, precision, and the quiet pursuit of order within chaos.<br>
 Code is not only instructions for machines, but also a mirror of how we structure thought.
 </h4>
 
@@ -66,18 +64,6 @@ Code is not only instructions for machines, but also a mirror of how we structur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="10" />
