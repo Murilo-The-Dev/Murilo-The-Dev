@@ -3,7 +3,9 @@
 ###
 
 <h4 align="left">
-I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang, with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM. I work with automated testing (unit and integration tests) to ensure reliability and safe code evolution, and I have hands-on experience with CI/CD pipelines for continuous build, testing, and deployment. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.
+I am a Back-End Developer focused on building efficient and resilient systems. My main stack is Golang and Ruby on Rails, with experience architecting RESTful APIs following Clean Architecture principles, implementing JWT authentication, and designing PostgreSQL databases with GORM and Active Record. I work with automated testing (unit and integration tests) to ensure reliability and safe code evolution, and I have hands-on experience with CI/CD pipelines for continuous build, testing, and deployment. I also work with C, Java, and JavaScript. Additionally, I use Python for data analysis, React with TypeScript for frontend development when needed, and have a solid foundation in HTML5 and CSS. Experienced with cloud deployments on Railway and integration with services like Cloudinary.
+<br><br>
+On the infrastructure side, I run Arch Linux with a custom Hyprland setup — precision in the environment reflects precision in the code.
 <br><br>
 This space is where I shape ideas into code — sharp, minimal, and to the point.
 <br><br>
@@ -14,7 +16,6 @@ Behind every system lies logic, precision, and the quiet pursuit of order within
 Code is not only instructions for machines, but also a mirror of how we structure thought.
 </h4>
 
-
 ###
 
 <div align="center">
@@ -22,7 +23,6 @@ Code is not only instructions for machines, but also a mirror of how we structur
 </div>
 
 ###
-
 
 <h1 align="left">//Stats</h1>
 
@@ -41,9 +41,8 @@ Code is not only instructions for machines, but also a mirror of how we structur
 
 ###
 
-<p align="left">I'm available for:<br><br>Backend development & API design;<br>Go consulting and code reviews;<br>System architecture and optimization;<br>Performance tuning and scalability.<br><br>Let's build something together.</p>
+<p align="left">I'm available for:<br><br>Backend development & API design;<br>Go and Ruby on Rails consulting and code reviews;<br>System architecture and optimization;<br>Performance tuning and scalability.<br><br>Let's build something together.</p>
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="murilo-christofoletti-7a221436b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/murilo-christofoletti-7a221436b?trk=profile-badge">Murilo Christofoletti</a></div>
-              
 
 ###
 
@@ -53,6 +52,10 @@ Code is not only instructions for machines, but also a mirror of how we structur
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="50" alt="ruby logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=rails" height="50" alt="rails logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="10" />
@@ -75,11 +78,23 @@ Code is not only instructions for machines, but also a mirror of how we structur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=arch" height="50" alt="arch linux logo"  />
 </div>
 
 ###
 
-<h1 align="left"></h1>
+<h1 align="left">//Setup</h1>
+
+###
+
+<p align="left">
+  Daily driving <strong>Arch Linux</strong> with <strong>Hyprland</strong> — a tiling Wayland compositor built for precision and speed.<br>
+  Running the <strong>Omarchy</strong> configuration by DHH (creator of Ruby on Rails) as the base environment.<br><br>
+  Tools: Neovim · Tmux · Fish · BTOp · LazyGit
+</p>
 
 ###
 
